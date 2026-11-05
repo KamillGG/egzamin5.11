@@ -1,0 +1,7 @@
+System operacyjny: Windows 11
+Aplikacja webowa:
+Środowisko programistyczne: Visual Studio Code
+Języki programowania: JavaScript (React.js)
+Aplikacja konsolowa:
+Środowisko programistyczne: Visual Studio
+Języki programowania: C#
